@@ -1,18 +1,43 @@
 {
-  "dogs": [
+  "products": [
     {
       "id": 1,
-      "name": "Cherry",
-      "age": 2,
-      "place": "Visakhapatnam",
-      "gender": "Male"
+      "image": "avatar1.png",
+      "name": "Denim Shirt",
+      "description": "Try this awesome shirt.",
+      "gender": "Male",
+      "category": "Shirt",
+      "price": 5000
+
     },
     {
       "id": 2,
-      "name": "Tommy",
-      "age": 3,
-      "place": "Banglore",
-      "gender": "Female"
+      "image": "avatar2.png",
+      "name": "Blacky Jrans",
+      "description": "Try this awesome shirt.",
+      "gender": "Male",
+      "category": "Jeans",
+      "price": 8000
+
+    },
+    {
+      "id": 3,
+      "image": "avatar3.png",
+      "name": "Western Saree",
+      "description": "Try this awesome saree.",
+      "gender": "Female",
+      "category": "Saree",
+      "price": 6000
+
+    }, {
+      "id": 4,
+      "image": "avatar4.png",
+      "name": "wonder Kurti",
+      "description": "Try this awesome kurti.",
+      "gender": "Female",
+      "category": "Kurti",
+      "price": 8000
+
     }
   ]
  
